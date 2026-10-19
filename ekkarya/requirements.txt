@@ -1,0 +1,11 @@
+streamlit>=1.45,<2
+streamlit-folium>=0.22
+folium>=0.17
+plotly>=5.22
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+fpdf2>=2.7
+qrcode[pil]>=7.4
+pillow>=10
+requests>=2.31
